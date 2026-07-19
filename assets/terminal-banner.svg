@@ -1,0 +1,38 @@
+<svg width="900" height="570" viewBox="0 0 900 570" xmlns="http://www.w3.org/2000/svg" font-family="Menlo, Consolas, 'Courier New', monospace">
+  <defs>
+    <clipPath id="card">
+      <rect x="0" y="0" width="900" height="570" rx="14" ry="14"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect x="0" y="0" width="900" height="570" fill="#0d1117"/>
+    <rect x="0" y="0" width="900" height="40" fill="#161b22"/>
+    <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
+    <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
+    <circle cx="64" cy="20" r="6" fill="#27c93f"/>
+    <text x="90" y="25" fill="#8b949e" font-size="13">jaestrada40@github: ~</text>
+  </g>
+
+  <text x="30" y="70" fill="#27c93f" font-size="14">$ whoami</text>
+  <text x="30" y="92" fill="#e6edf3" font-size="14">Javier Estrada (ElChavi) — Full-Stack Developer · Guatemala</text>
+
+  <text x="30" y="136" fill="#27c93f" font-size="14">$ cat about.txt</text>
+  <text x="30" y="158" fill="#e6edf3" font-size="14">Estudiante de Ingeniería en Sistemas y desarrollador full-stack.</text>
+  <text x="30" y="180" fill="#e6edf3" font-size="14">Transformo ideas en productos completos: diseño la experiencia,</text>
+  <text x="30" y="202" fill="#e6edf3" font-size="14">construyo la API, modelo los datos y preparo el despliegue.</text>
+
+  <text x="30" y="246" fill="#27c93f" font-size="14">$ ls stack/frontend/</text>
+  <text x="30" y="268" fill="#79c0ff" font-size="14">next.js  react  typescript  tailwind  astro  angular</text>
+
+  <text x="30" y="312" fill="#27c93f" font-size="14">$ ls stack/backend_datos/</text>
+  <text x="30" y="334" fill="#79c0ff" font-size="14">nestjs  node.js  express  socket.io  postgresql  mongodb  redis</text>
+
+  <text x="30" y="378" fill="#27c93f" font-size="14">$ ls stack/infra/</text>
+  <text x="30" y="400" fill="#79c0ff" font-size="14">docker  coolify  openshift  git</text>
+
+  <text x="30" y="444" fill="#27c93f" font-size="14">$ git log --author=jaestrada40 --oneline | wc -l</text>
+  <text x="30" y="466" fill="#e6edf3" font-size="14">468 contribuciones en el último año</text>
+
+  <text x="30" y="510" fill="#27c93f" font-size="14">$ echo $CONTACT</text>
+  <text x="30" y="532" fill="#e6edf3" font-size="14">linkedin.com/in/javier-estrada-a54235246</text>
+</svg>
