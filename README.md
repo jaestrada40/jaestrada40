@@ -111,16 +111,13 @@ Sitio personal con panel de administración propio: perfil, categorías y skills
 ## Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaestrada40&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaestrada40&layout=compact&theme=chartreuse-dark&hide_border=true" height="165">
+  <img src="https://img.shields.io/github/followers/jaestrada40?style=for-the-badge&label=followers&color=27C93F">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=repos&color=27C93F&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fjaestrada40">
+  <img src="https://komarev.com/ghpvc/?username=jaestrada40&color=27c93f&style=for-the-badge&label=profile+views">
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaestrada40&theme=highcontrast&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaestrada40&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center"><i>Siempre aprendiendo, construyendo y mejorando.</i></p>
