@@ -1,117 +1,49 @@
-<div align="center">
+<!-- ESTILO TERMINAL — personalizado con tus datos reales -->
 
-![Perfil profesional de Javier Estrada](assets/profile-design-2.png)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=27C93F&background=0D111700&center=true&vCenter=true&width=650&lines=%24+whoami;Javier+Estrada+(ElChavi)+%E2%80%94+Full-Stack+Developer;%24+cat+about.txt;Guatemala+%C2%B7+Ingenier%C3%ADa+en+Sistemas" alt="Typing SVG" />
+</h1>
 
-Plataformas web · Sistemas de gestión · APIs · Datos · Infraestructura
+<p align="center">
+  <img src="https://img.shields.io/badge/status-online-27C93F?style=for-the-badge&logo=terminal&logoColor=white">
+  <img src="https://img.shields.io/badge/PRO-black?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
-[![CompilaLab](https://img.shields.io/badge/Explorar_CompilaLab-6D4AFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://compiladores.kynova.tech)
-[![Repositorios](https://img.shields.io/badge/Ver_repositorios-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaestrada40?tab=repositories)
+```bash
+$ cat about.txt
+Estudiante de Ingeniería en Sistemas y desarrollador full-stack.
+Transformo ideas en productos completos: diseño la experiencia,
+construyo la API, modelo los datos y preparo el despliegue.
 
-</div>
+$ ls stack/frontend/
+next.js  react  typescript  tailwind  astro  angular
 
----
+$ ls stack/backend_datos/
+nestjs  node.js  express  socket.io  postgresql  mongodb  prisma  redis
 
-## Sobre mí
+$ ls stack/infra/
+docker  coolify  openshift  git
 
-Soy estudiante de **Ingeniería en Sistemas** y desarrollador full-stack. Transformo ideas en productos completos: diseño la experiencia, construyo la API, modelo los datos y preparo el despliegue.
+$ ./featured --project
+CompilaLab — plataforma educativa interactiva para comprender el
+proceso de compilación. 21 semanas de aprendizaje, laboratorios de
+tokens, expresiones regulares, autómatas, gramáticas, AST y código
+intermedio.
+> Next.js · React · TypeScript · Docker · Coolify
 
-Mi experiencia incluye sistemas clínicos, universitarios, fiscales, comerciales y de gestión; aplicaciones en tiempo real; paneles administrativos; autenticación y automatización de procesos.
+$ echo $CONTACT
+linkedin.com/in/javier-estrada-a54235246
+```
 
-> Me interesa construir software claro, mantenible y útil para las personas.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaestrada40&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaestrada40&layout=compact&theme=chartreuse-dark&hide_border=true" height="165">
+</p>
 
-## Tecnologías
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaestrada40&theme=highcontrast&hide_border=true">
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=flat-square&logo=nextdotjs&logoColor=111111)
-![React](https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=react&logoColor=087EA4)
-![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=flat-square&logo=typescript&logoColor=3178C6)
-![Tailwind](https://img.shields.io/badge/Tailwind-FFFFFF?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Astro](https://img.shields.io/badge/Astro-FFFFFF?style=flat-square&logo=astro&logoColor=6D4AFF)
-![Angular](https://img.shields.io/badge/Angular-FFFFFF?style=flat-square&logo=angular&logoColor=DD0031)
-
-</td>
-<td width="50%" valign="top">
-
-### Backend
-
-![NestJS](https://img.shields.io/badge/NestJS-FFFFFF?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=express&logoColor=111111)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-FFFFFF?style=flat-square&logo=socketdotio&logoColor=111111)
-![Electron](https://img.shields.io/badge/Electron-FFFFFF?style=flat-square&logo=electron&logoColor=47848F)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Datos
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=mysql&logoColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=flat-square&logo=mongodb&logoColor=47A248)
-![Prisma](https://img.shields.io/badge/Prisma-FFFFFF?style=flat-square&logo=prisma&logoColor=6D4AFF)
-![Redis](https://img.shields.io/badge/Redis-FFFFFF?style=flat-square&logo=redis&logoColor=DC382D)
-
-</td>
-<td width="50%" valign="top">
-
-### Infraestructura
-
-![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=flat-square&logo=docker&logoColor=2496ED)
-![Coolify](https://img.shields.io/badge/Coolify-FFFFFF?style=flat-square&logo=coolify&logoColor=6B16ED)
-![Git](https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=F05032)
-![OpenShift](https://img.shields.io/badge/OpenShift-FFFFFF?style=flat-square&logo=redhatopenshift&logoColor=EE0000)
-
-</td>
-</tr>
-</table>
-
-## Proyecto destacado
-
-<table>
-<tr>
-<td width="70%" valign="top">
-
-### [CompilaLab](https://compiladores.kynova.tech)
-
-Plataforma educativa interactiva para comprender el proceso de compilación. Organiza 21 semanas de aprendizaje y ofrece cuestionarios y laboratorios de tokens, expresiones regulares, autómatas, gramáticas, AST, tabla de símbolos y código intermedio.
-
-`Next.js` · `React` · `TypeScript` · `Docker` · `Coolify`
-
-</td>
-<td width="30%" align="center" valign="middle">
-
-[![Abrir aplicación](https://img.shields.io/badge/Abrir_aplicación-6D4AFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://compiladores.kynova.tech)
-
-[![Código](https://img.shields.io/badge/Ver_código-FFFFFF?style=for-the-badge&logo=github&logoColor=111111)](https://github.com/jaestrada40/compiladores)
-
-</td>
-</tr>
-</table>
-
-## Experiencia construyendo soluciones
-
-- Sistemas de gestión clínica, universitaria y comercial.
-- Portales de estadísticas públicas y administración de reportes.
-- Plataformas SaaS, facturación, inventarios y paneles operativos.
-- APIs seguras con roles, JWT, auditoría y procesos en tiempo real.
-- Aplicaciones de escritorio conectadas a servidores locales.
-- Contenedores, despliegue en VPS y automatización de infraestructura.
-
-Los proyectos privados se describen de forma general para proteger su información interna.
-
----
-
-<div align="center">
-
-### Siempre aprendiendo, construyendo y mejorando.
-
-![Visitas](https://komarev.com/ghpvc/?username=jaestrada40&color=6d4aff&style=flat-square&label=Visitas+al+perfil)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaestrada40&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
