@@ -1,11 +1,11 @@
-<svg width="900" height="570" viewBox="0 0 900 570" xmlns="http://www.w3.org/2000/svg" font-family="Menlo, Consolas, 'Courier New', monospace">
+<svg width="900" height="640" viewBox="0 0 900 640" xmlns="http://www.w3.org/2000/svg" font-family="Menlo, Consolas, 'Courier New', monospace">
   <defs>
     <clipPath id="card">
-      <rect x="0" y="0" width="900" height="570" rx="14" ry="14"/>
+      <rect x="0" y="0" width="900" height="640" rx="14" ry="14"/>
     </clipPath>
   </defs>
   <g clip-path="url(#card)">
-    <rect x="0" y="0" width="900" height="570" fill="#0d1117"/>
+    <rect x="0" y="0" width="900" height="640" fill="#0d1117"/>
     <rect x="0" y="0" width="900" height="40" fill="#161b22"/>
     <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
     <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
@@ -30,9 +30,12 @@
   <text x="30" y="378" fill="#27c93f" font-size="14">$ ls stack/infra/</text>
   <text x="30" y="400" fill="#79c0ff" font-size="14">docker  coolify  openshift  git</text>
 
-  <text x="30" y="444" fill="#27c93f" font-size="14">$ git log --author=jaestrada40 --oneline | wc -l</text>
-  <text x="30" y="466" fill="#e6edf3" font-size="14">468 contribuciones en el último año</text>
+  <text x="30" y="444" fill="#27c93f" font-size="14">$ ls proyectos/dominios/</text>
+  <text x="30" y="466" fill="#79c0ff" font-size="14">clinicos  universitarios  fiscales-gubernamentales  saas-comercial  monitoreo  apis-backend</text>
 
-  <text x="30" y="510" fill="#27c93f" font-size="14">$ echo $CONTACT</text>
-  <text x="30" y="532" fill="#e6edf3" font-size="14">linkedin.com/in/javier-estrada-a54235246</text>
+  <text x="30" y="510" fill="#27c93f" font-size="14">$ git log --author=jaestrada40 --oneline --all | wc -l</text>
+  <text x="30" y="532" fill="#e6edf3" font-size="14">100 repositorios · 36 privados · 468 contribuciones este año</text>
+
+  <text x="30" y="576" fill="#27c93f" font-size="14">$ echo $CONTACT</text>
+  <text x="30" y="598" fill="#e6edf3" font-size="14">linkedin.com/in/javier-estrada-a54235246</text>
 </svg>
