@@ -1,6 +1,6 @@
 <div align="center">
 
-![Perfil profesional de Javier Estrada](assets/profile-design-2.png)
+![Javier Estrada · Desarrollador Full-Stack](assets/profile-banner.png)
 
 Plataformas web · Sistemas de gestión · APIs · Datos · Infraestructura
 
