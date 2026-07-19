@@ -1,0 +1,31 @@
+<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" width="900" height="300">
+  <rect x="0" y="0" width="900" height="300" fill="#ffffff"/>
+
+  <text x="45" y="55" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#6b6b6b" letter-spacing="1">FULL-STACK DEVELOPER</text>
+  <text x="45" y="80" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#6b6b6b" letter-spacing="1">GUATEMALA</text>
+
+  <text x="45" y="150" font-family="Arial, sans-serif" font-size="46" font-weight="800" fill="#1a1a1a">Javier</text>
+  <text x="45" y="200" font-family="Arial, sans-serif" font-size="46" font-weight="800" fill="#1a1a1a">Estrada</text>
+  <text x="45" y="228" font-family="Arial, sans-serif" font-size="16" font-style="italic" fill="#6b6b6b">aka ElChavi</text>
+
+  <rect x="45" y="255" width="150" height="28" rx="14" fill="#fff3c4" stroke="#1a1a1a" stroke-width="1.5"/>
+  <text x="60" y="273" font-family="Arial, sans-serif" font-size="12" font-weight="600" fill="#1a1a1a">100+ repos</text>
+
+  <rect x="210" y="255" width="280" height="28" rx="14" fill="#d7f0ff" stroke="#1a1a1a" stroke-width="1.5"/>
+  <text x="225" y="273" font-family="Arial, sans-serif" font-size="12" font-weight="600" fill="#1a1a1a">Clínicas · Gobierno · SaaS</text>
+
+  <g transform="rotate(-3 680 110)">
+    <rect x="540" y="90" width="290" height="46" fill="#f7d51d" opacity="0.85"/>
+  </g>
+  <g transform="rotate(2 680 190)">
+    <rect x="540" y="170" width="300" height="46" fill="#f7d51d" opacity="0.85"/>
+  </g>
+
+  <defs>
+    <clipPath id="avatarClip">
+      <circle cx="700" cy="150" r="105"/>
+    </clipPath>
+  </defs>
+  <image href="https://avatars.githubusercontent.com/u/43049997?v=4" x="595" y="45" width="210" height="210" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
+  <circle cx="700" cy="150" r="105" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+</svg>
