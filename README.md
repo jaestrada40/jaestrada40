@@ -21,6 +21,27 @@ Actualmente profundizo en arquitectura web, automatización, infraestructura y c
 
 > Mi objetivo es crear tecnología útil, confiable y fácil de entender.
 
+## Certificaciones AWS
+
+<table>
+<tr>
+<td width="50%" valign="middle">
+
+### AWS Certified Cloud Practitioner
+
+Fundamentos de nube, seguridad, arquitectura, costos y servicios esenciales de AWS.
+
+</td>
+<td width="50%" valign="middle">
+
+### AWS Certified Developer – Associate
+
+Desarrollo, despliegue, seguridad y mantenimiento de aplicaciones sobre AWS.
+
+</td>
+</tr>
+</table>
+
 ## Tecnologías
 
 <table>
@@ -65,6 +86,7 @@ Actualmente profundizo en arquitectura web, automatización, infraestructura y c
 
 ### Infraestructura
 
+![AWS](https://img.shields.io/badge/AWS-FFFFFF?style=flat-square&logo=amazonwebservices&logoColor=232F3E)
 ![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=flat-square&logo=docker&logoColor=2496ED)
 ![Coolify](https://img.shields.io/badge/Coolify-FFFFFF?style=flat-square&logo=coolify&logoColor=6B16ED)
 ![Git](https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=F05032)
