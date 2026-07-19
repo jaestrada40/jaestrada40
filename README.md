@@ -1,6 +1,6 @@
 <div align="center">
 
-![Perfil profesional de Javier Estrada](assets/profile-modern-tech.png)
+![Perfil profesional de Javier Estrada](assets/profile-blue-green.png)
 
 Plataformas web · Sistemas de gestión · APIs · Datos · Infraestructura
 
@@ -13,11 +13,13 @@ Plataformas web · Sistemas de gestión · APIs · Datos · Infraestructura
 
 ## Sobre mí
 
-Soy estudiante de **Ingeniería en Sistemas** y desarrollador full-stack. Transformo ideas en productos completos: diseño la experiencia, construyo la API, modelo los datos y preparo el despliegue.
+Soy **desarrollador full-stack** y estudiante de **Ingeniería en Sistemas** en Guatemala. Construyo productos digitales de principio a fin: convierto necesidades reales en interfaces claras, APIs seguras, modelos de datos sólidos y despliegues listos para producción.
 
-Mi experiencia incluye sistemas clínicos, universitarios, fiscales, comerciales y de gestión; aplicaciones en tiempo real; paneles administrativos; autenticación y automatización de procesos.
+He trabajado en soluciones para salud, educación, estadísticas públicas, operaciones comerciales y plataformas SaaS. Disfruto entender procesos complejos, simplificarlos y transformarlos en software mantenible que ayude a las personas y a los equipos a trabajar mejor.
 
-> Me interesa construir software claro, mantenible y útil para las personas.
+Actualmente profundizo en arquitectura web, automatización, infraestructura y compiladores mientras desarrollo proyectos como **CompilaLab**.
+
+> Mi objetivo es crear tecnología útil, confiable y fácil de entender.
 
 ## Tecnologías
 
